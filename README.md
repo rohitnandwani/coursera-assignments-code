@@ -13,7 +13,7 @@ The next assignment contains a simple program to determine the class of poker ha
 
 ## Matlab code for Machine learning
 
-The core logic of various algorithms is implemented, such as:
+The core logic of various algorithms is implemented, including:
 
 Linear regression
 
